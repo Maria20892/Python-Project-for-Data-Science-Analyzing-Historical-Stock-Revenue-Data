@@ -7,6 +7,6 @@ The goal of the project is to analyze historical stock price trends for Tesla an
 
 
 ## Dashboard for GameStop:
-![GameStop Dashboard Screenshot]([https://github.com/Maria20892/Python-Project-for-Data-Science-Analyzing-Historical-Stock-Revenue-Data/blob/main/TeslaPlot.jpg](https://github.com/Maria20892/Python-Project-for-Data-Science-Analyzing-Historical-Stock-Revenue-Data/blob/main/GMEPlot.jpg))
+![GameStop Dashboard Screenshot](https://github.com/Maria20892/Python-Project-for-Data-Science-Analyzing-Historical-Stock-Revenue-Data/blob/main/GMEPlot.jpg)
 
 
